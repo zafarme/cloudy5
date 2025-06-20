@@ -64,7 +64,7 @@ DATABASES = {
         'ENGINE': 'django.db.backends.postgresql',
         'NAME': 'CloudyLMS',
         'HOST': '139.59.8.137',
-        'PORT': 8080,
+        'PORT': 5432,
         'USER': 'postgres',
         'PASSWORD': 'abdurahmon2009',
     }
