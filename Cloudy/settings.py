@@ -63,7 +63,7 @@ DATABASES = {
     'default': {
         'ENGINE': 'django.db.backends.postgresql',
         'NAME': 'CloudyLMS',
-        'HOST': '139.59.8.137',
+        'HOST': 'localhost',
         'PORT': 5432,
         'USER': 'postgres',
         'PASSWORD': 'abdurahmon2009',
