@@ -8,7 +8,7 @@ SECRET_KEY = 'bu_joyga_secrets_module_yarattgan_50_ta_belgi_kiradi'
 
 DEBUG = True
 
-ALLOWED_HOSTS = ['139.59.8.137']
+ALLOWED_HOSTS = ['139.59.8.137', 'www.myproject.uz']
 
 # Application definition
 INSTALLED_APPS = [
